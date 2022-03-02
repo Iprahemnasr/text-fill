@@ -32,3 +32,9 @@ body {
 .fill:hover::before {
   width: 100%
 }
+div{
+  font-size: 18px;
+  color: #267BCA;
+  width: fit-content;
+  margin: 5px auto
+}
